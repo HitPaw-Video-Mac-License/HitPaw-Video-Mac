@@ -1,7 +1,7 @@
 # HitPaw Video – Video Editing & Enhancement
 
 <div align="center">  
-  <img src="https://static.macupdate.com/products/63849/d/php0iamtc-logo.png" width="250" alt="HitPaw Video Logo"/>  
+  <img src="https://oss.heipg.cn/2022/11/1668964458-a104efe953ad609.webp" width="250" alt="HitPaw Video Logo"/>  
 </div>  
 
 <br>  
